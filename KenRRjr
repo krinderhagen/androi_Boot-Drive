@@ -1,0 +1,18 @@
+Droid 
+Connect /mnt/cd-rom to /mnt/sdcard 2
+Get_DeviceInfo
+Get_bootpath
+Recover C:\
+Recover C:\boot
+
+Install /mnt\sdcard 2/winsetup.exe
+
+Option
+Repair
+Complete install
+Discard files
+Keep files
+Abort
+
+
+E
